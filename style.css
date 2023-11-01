@@ -9,7 +9,7 @@ body {
 }
 
 #banner {
-	width: 10%;
+	width: 200%;
 }
 
 h1 {
@@ -26,4 +26,7 @@ p {
 
 em strong {
 	color: #FF0000;
+}
+#baneficios {
+	width: 200%;
 }
